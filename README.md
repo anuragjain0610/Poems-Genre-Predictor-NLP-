@@ -12,11 +12,11 @@ The dataset consists of the following data:
 6. Types(genres): 3
 
 Attribute Information:
- author
- content: Poems
- poem Name
- age: Modern and Renaissance
- type: Genre(Mythology & Folklore, Nature and Love)
+1. author
+2. content: Poems
+3. poem Name
+4. age: Modern and Renaissance
+5. type: Genre(Mythology & Folklore, Nature and Love)
 
 Loading the data:
 The dataset is available in .csv file.
