@@ -4,19 +4,19 @@ Natural Language Processing: Predicting Genres of Poems
 Data Source: https://www.kaggle.com/ultrajack/modern-renaissance-poetry
 
 The dataset consists of the following data:
-1.Total no. of data points: 573
-2.Number of Attributes/Columns in data: 5
-3.Number of Authors: 67
-4.Number of different poems: 506
-5.Number of different poem names: 509
-6.Types(genres): 3
+1. Total no. of data points: 573
+2. Number of Attributes/Columns in data: 5
+3. Number of Authors: 67
+4. Number of different poems: 506
+5. Number of different poem names: 509
+6. Types(genres): 3
 
 Attribute Information:
-author
-content: Poems
-poem Name
-age: Modern and Renaissance
-type: Genre(Mythology & Folklore, Nature and Love)
+ author
+ content: Poems
+ poem Name
+ age: Modern and Renaissance
+ type: Genre(Mythology & Folklore, Nature and Love)
 
 Loading the data:
 The dataset is available in .csv file.
