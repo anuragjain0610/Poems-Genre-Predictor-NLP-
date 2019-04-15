@@ -22,6 +22,7 @@ Loading the data:
 The dataset is available in .csv file.
 
 Approach: In steps:-
+
 1. Removing the duplicate and Null Data.
 2. Each poem is converted to lower case.
 3. Removal of punctuations like --->,/./‘/: etc
@@ -33,17 +34,18 @@ Approach: In steps:-
 8. Second Classification using SVM
 
 Packages used:
-1.Numpy
-2.Pandas
-3.Matplotlib
-4.Seaborn
-5.Regular expression--->re
-6.xgboost
+
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Regular expression--->re
+6. xgboost
 From Scikit-Learn:
-1.TfidfVectorizer
-2.train_test_split
-3.LabelEncoder
-4.confusion_matrix
-5.accuracy_score
-6.LinearSVC
-7.average_precision_score
+1. TfidfVectorizer
+2. train_test_split
+3. LabelEncoder
+4. confusion_matrix
+5. accuracy_score
+6. LinearSVC
+7. average_precision_score
